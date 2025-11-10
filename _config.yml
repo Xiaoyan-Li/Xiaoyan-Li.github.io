@@ -643,3 +643,23 @@ jsonresume:
   - languages
   - interests
   - references
+
+# -----------------------------------------------------------------------------
+# Add Nav Bar Categories
+# -----------------------------------------------------------------------------
+
+navbar:
+  - name: "Home"
+    link: /
+  - name: "Research"
+    link: /research/
+  - name: "Publications"
+    link: /publications/
+  - name: "Talks"
+    link: /talks/
+  - name: "People"
+    link: /people/
+  - name: "Teaching"
+    link: /teaching/
+  - name: "Join"
+    link: /join/
