@@ -18,11 +18,6 @@ These methods are applied across a range of domains, particularly in **public he
 - **AI-assisted Simulation** — integrating deep learning and probabilistic inference within dynamic system models.
 - **Public Health Applications** — developing decision-support tools for infectious disease forecasting and intervention evaluation.
 
-#### Collaborations
-I collaborate with interdisciplinary teams of mathematicians, computer scientists, and public health researchers.  
-Recent collaborations include work with the **Topos Institute**, **University of Saskatchewan**, and **Harvard T.H. Chan School of Public Health**.
-
----
 
 *For prospective students:*  
 If you are interested in working on topics related to **compositional modeling**, **machine learning**, or **AI in public health**, 
