@@ -43,6 +43,20 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
+
+# -----------------------------------------------------------------------------
+# Add Nav Bar Categories
+# -----------------------------------------------------------------------------
+
+navbar-links:
+  Home: /
+  Research: /research/
+  Publications: /publications/
+  Talks: /talks/
+  People: /people/
+  Teaching: /teaching/
+  Join: /join/
+
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
@@ -643,23 +657,3 @@ jsonresume:
   - languages
   - interests
   - references
-
-# -----------------------------------------------------------------------------
-# Add Nav Bar Categories
-# -----------------------------------------------------------------------------
-
-navbar:
-  - name: "Home"
-    link: /
-  - name: "Research"
-    link: /research/
-  - name: "Publications"
-    link: /publications/
-  - name: "Talks"
-    link: /talks/
-  - name: "People"
-    link: /people/
-  - name: "Teaching"
-    link: /teaching/
-  - name: "Join"
-    link: /join/
