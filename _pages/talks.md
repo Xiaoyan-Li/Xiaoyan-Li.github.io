@@ -14,18 +14,6 @@ can be combined to create modular, interpretable, and data-driven frameworks for
 
 ### 🗣️ Recent & Upcoming Talks
 
-- **Compositional Modeling for Dynamic Systems**  
-  *Department of Mathematics & Computer Science, University of Lethbridge* — 2025  
-  Overview of compositional modeling approaches integrating categorical semantics with system dynamics and AI.
-
-- **Category Theory in AI and Simulation**  
-  *Topos Institute, UK Node* — 2024  
-  Discussed categorical representations for dynamic models and the AlgebraicJulia ecosystem.
-
-- **AI in Public Health: From Modeling to Decision Support**  
-  *Harvard T.H. Chan School of Public Health (Collaborative Seminar)* — 2023  
-  Presented the integration of agent-based and system dynamics models with machine learning pipelines.
-
 ---
 
 ### 🎥 Recordings & Slides
