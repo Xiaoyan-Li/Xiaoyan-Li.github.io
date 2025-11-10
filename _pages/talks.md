@@ -12,11 +12,11 @@ can be combined to create modular, interpretable, and data-driven frameworks for
 
 ---
 
-### 🗣️ Recent & Upcoming Talks
+### Recent & Upcoming Talks
 
 ---
 
-### 🎥 Recordings & Slides
+### Recordings & Slides
 Slides and recordings of selected talks are available upon request.  
 Upcoming events and invited talks will be announced on the [News](/news/) page.
 
