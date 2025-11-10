@@ -2,7 +2,9 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  Assistant Professor · <a href="https://www.ulethbridge.ca">University of Lethbridge</a><br>
+  Bridging mathematics, computer science, and public health
 
 profile:
   align: right
@@ -27,10 +29,29 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor in the Department of Mathematics and Computer Science at the University of Lethbridge, Canada. My research bridges mathematics, computer science, and public health, focusing on the development of compositional and data-driven modeling frameworks for complex systems.
+### 👋 Welcome
 
-Drawing on applied category theory, system dynamics, and machine learning, my work aims to create modular, interpretable, and evolvable tools that integrate dynamic simulation with artificial intelligence. These methods are applied across a range of domains, particularly in public health and epidemiological modeling.
+I am an **Assistant Professor** in the Department of Mathematics and Computer Science at the **University of Lethbridge**. My research bridges **mathematics, computer science, and public health**, with a focus on developing *compositional, interpretable, and data-driven frameworks* for modeling complex dynamic systems.
 
+### 🧠 Research Vision
+
+I aim to create a new generation of modeling tools that combine the rigor of **applied category theory** with the flexibility of **machine learning** and **simulation**. These frameworks enable modular and transparent integration of dynamic models across scales—from individual behaviors to population-level dynamics.
+
+### 🔬 Current Research Directions
+
+- **Compositional Dynamic Modeling** — developing categorical representations for system dynamics and agent-based models.
+- **AI-assisted Simulation** — integrating deep learning and probabilistic reasoning into dynamic modeling workflows.
+- **Public Health Applications** — modeling infectious diseases and population health interventions to support evidence-based decision-making.
+
+### 🚀 Opportunities
+
+I am currently recruiting **M.Sc. and Ph.D. students** who are interested in **applied category theory**, **AI in public health**, or **computational modeling of complex systems**. Please see the [Join](/join/) page for more details, or email me directly.
+
+---
+
+> “Bridging theory and application through compositional thinking.”
+
+<!--
 **_I am currently recruiting motivated Ph.D. and M.Sc. students._**
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
@@ -38,3 +59,4 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing the `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+-->
