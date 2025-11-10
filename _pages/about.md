@@ -11,9 +11,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
+     <p>4401 University Drive West</p>
+     <p>Lethbridge, Alberta, Canada</p>
+     <p>T1K 3M4</p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -30,27 +30,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-### 👋 Welcome
-
 I am an **Assistant Professor** in the Department of Mathematics and Computer Science at the **University of Lethbridge**. My research bridges **mathematics, computer science, and public health**, with a focus on developing *compositional, interpretable, and data-driven frameworks* for modeling complex dynamic systems.
 
-### 🧠 Research Vision
+I aim to create new-generation modeling tools that combine the rigor of **applied category theory** with the flexibility of **machine learning** and **simulation**. These frameworks enable modular and transparent integration of dynamic models across scales—from individual behaviors to population-level dynamics.
 
-I aim to create a new generation of modeling tools that combine the rigor of **applied category theory** with the flexibility of **machine learning** and **simulation**. These frameworks enable modular and transparent integration of dynamic models across scales—from individual behaviors to population-level dynamics.
-
-### 🔬 Current Research Directions
+My **Current Research Directions** include:
 
 - **Compositional Dynamic Modeling** — developing categorical representations for system dynamics and agent-based models.
 - **AI-assisted Simulation** — integrating deep learning and probabilistic reasoning into dynamic modeling workflows.
 - **Public Health Applications** — modeling infectious diseases and population health interventions to support evidence-based decision-making.
 
-### 🚀 Opportunities
-
 I am currently recruiting **M.Sc. and Ph.D. students** who are interested in **applied category theory**, **AI in public health**, or **computational modeling of complex systems**. Please see the [Join](/join/) page for more details, or email me directly.
 
 ---
 
-> “Bridging theory and application through compositional thinking.”
+> <p style="color: gray; font-style: italic;">“Bridging theory and application through compositional thinking.”</p>
 
 <!--
 **_I am currently recruiting motivated Ph.D. and M.Sc. students._**
