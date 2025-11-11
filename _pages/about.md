@@ -3,8 +3,7 @@ layout: about
 title: Home
 permalink: /
 subtitle: >
-  Assistant Professor · <a href="https://www.ulethbridge.ca">University of Lethbridge</a><br>
-  Bridging mathematics, computer science, and public health
+  Assistant Professor · <a href="https://www.ulethbridge.ca" target="_blank">University of Lethbridge</a>
 
 profile:
   align: right
@@ -30,21 +29,27 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an **Assistant Professor** in the Department of Mathematics and Computer Science at the **University of Lethbridge**. My research bridges **mathematics, computer science, and public health**, with a focus on developing *compositional, interpretable, and data-driven frameworks* for modeling complex dynamic systems.
+I am an assistant professor in the Department of Mathematics and Computer Science at the University of Lethbridge. My work sits between mathematics, computer science, and public health, and I am especially interested in building compositional, interpretable, data-driven frameworks for complex dynamic systems.
 
-I aim to create new-generation modeling tools that combine the rigor of **applied category theory** with the flexibility of **machine learning** and **simulation**. These frameworks enable modular and transparent integration of dynamic models across scales—from individual behaviors to population-level dynamics.
+I aim to develop modeling tools that combine the rigor of applied category theory with the flexibility of machine learning and simulation. The goal is to make it easier to integrate models across scales, improve transparency, and support real decision-making in public health settings.
 
-My **Current Research Directions** include:
+My current research directions include:
 
-- **Compositional Dynamic Modeling** — developing categorical representations for system dynamics and agent-based models.
-- **AI-assisted Simulation** — integrating deep learning and probabilistic reasoning into dynamic modeling workflows.
-- **Public Health Applications** — modeling infectious diseases and population health interventions to support evidence-based decision-making.
-
-I am currently recruiting **M.Sc. and Ph.D. students** who are interested in **applied category theory**, **AI in public health**, or **computational modeling of complex systems**. Please see the [Join](/join/) page for more details, or email me directly.
+- Compositional dynamic modeling — categorical and modular approaches to system dynamics and agent-based models.
+- AI-assisted simulation — bringing learning and probabilistic reasoning into dynamic modeling workflows.
+- Public health applications — models for infectious diseases and population-level interventions.
 
 ---
 
-> <p style="color: gray; font-style: italic;">“Bridging theory and application through compositional thinking.”</p>
+### 🎓 Graduate Opportunities
+
+I am currently **recruiting M.Sc. and Ph.D. students** who are interested in _applied category theory_, _AI in public health_, or _computational modeling of complex systems_.  
+Please see the [Join](/join/) page for details, or contact me via email at <span style="font-family: monospace; color: #444;">firstname.lastname2 [at] uleth [dot] ca</span>.
+
+
+---
+
+<p style="color: gray; font-style: italic;">“Bridging theory and application through compositional thinking.”</p>
 
 <!--
 **_I am currently recruiting motivated Ph.D. and M.Sc. students._**
