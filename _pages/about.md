@@ -10,10 +10,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Department of Mathematics & Computer Science</p>
+    <p>University of Lethbridge</p>
     <p>4401 University Drive West</p>
-    <p>Lethbridge, Alberta, Canada</p>
-    <p>T1K 3M4</p>
-
+    <p>Lethbridge, Alberta, Canada T1K 3M4</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
