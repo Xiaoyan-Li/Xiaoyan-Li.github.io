@@ -39,8 +39,6 @@ My current research directions include:
 - AI-assisted simulation — bringing learning and probabilistic reasoning into dynamic modeling workflows.
 - Public health applications — models for infectious diseases and population-level interventions.
 
----
-
 ### 🎓 Graduate Opportunities
 
 I am currently recruiting M.Sc. and Ph.D. students who are interested in applied category theory, AI in public health, or computational modeling of complex systems. Please see the [Join](/join/) page for details, or contact me at firstname.lastname2 [at] uleth [dot] ca.
