@@ -46,7 +46,6 @@ My current research directions include:
 I am currently **recruiting M.Sc. and Ph.D. students** who are interested in _applied category theory_, _AI in public health_, or _computational modeling of complex systems_.  
 Please see the [Join](/join/) page for details, or contact me via email at <span style="font-family: monospace; color: #444;">firstname.lastname2 [at] uleth [dot] ca</span>.
 
-
 ---
 
 <p style="color: gray; font-style: italic;">“Bridging theory and application through compositional thinking.”</p>
