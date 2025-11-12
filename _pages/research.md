@@ -18,73 +18,6 @@ My research bridges mathematics, computer science, and public health. I focus on
 
 ---
 
-<style>
-  /* page width a bit narrower for readability */
-  .research-wrapper {
-    max-width: 880px;
-    margin: 0 auto;
-  }
-  .research-wrapper p {
-    line-height: 1.65;
-    color: #333;
-  }
-  .research-wrapper h1 {
-    font-size: 1.9em;
-    font-weight: 600;
-    color: #222;
-    border-bottom: 2px solid #eee;
-    padding-bottom: 0.35em;
-    margin-bottom: 0.8em;
-  }
-  .research-wrapper h2 {
-    font-size: 1.4em;
-    font-weight: 600;
-    color: #2c3e50;
-    border-bottom: 1px solid #ddd;
-    padding-bottom: 0.35em;
-    margin-top: 1.6em;
-    display: flex;
-    align-items: center;
-    gap: 0.4rem;
-  }
-  .research-wrapper h3 {
-    font-size: 1.08em;
-    font-weight: 600;
-    color: #444;
-    margin-top: 1.1em;
-    margin-bottom: 0.4em;
-  }
-  /* image rows */
-  .img-row {
-    display: flex;
-    gap: 24px;
-    justify-content: center;
-    align-items: center;
-    margin: 1.2em 0 0.4em 0;
-  }
-  .img-row img {
-    width: 45%;
-    border-radius: 10px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-  }
-  .img-caption {
-    text-align: center;
-    color: #777;
-    font-size: 0.9em;
-    margin-bottom: 1.1em;
-  }
-  @media (max-width: 780px) {
-    .img-row {
-      flex-direction: column;
-    }
-    .img-row img {
-      width: 100%;
-    }
-  }
-</style>
-
-<div class="research-wrapper">
-
 # Research interests
 
 My research program integrates theoretical and applied investigations to advance **compositional, interpretable, and data-informed frameworks** for dynamic system modeling.  
@@ -140,5 +73,3 @@ These models help simulate complex epidemics, compare interventions, and support
 
 The two research lines reinforce each other: the **theory** provides compositional and interpretable structures, while the **applications** reveal new requirements from real systems and data.  
 Together, they advance a coherent vision of **compositional, Bayesian, and data-driven modeling** for understanding and managing complex adaptive systems.
-
-</div>
