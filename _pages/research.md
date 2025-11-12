@@ -25,35 +25,59 @@ It consists of two deeply interconnected lines—one *theory-driven*, grounded i
 
 ---
 
-### 🧩 Theory-Driven Line: Category Theory for Next-Generation Dynamic System Modeling
+## 🧩 Theory-Driven Line: Category Theory for Next-Generation Dynamic System Modeling
 
-This line aims to establish a **category-theoretic foundation** for dynamic system modeling.  
-Current modeling frameworks—such as **System Dynamics (SD)**, **Agent-Based Modeling (ABM)**, and **Discrete-Event Simulation (DES)**—are often ad hoc and lack a unified mathematical structure.  
-My work applies **applied category theory** to reconstruct the **mathematical semantics** of these methodologies, identifying shared structures among their state spaces, flows, and causal dependencies.
-
-The goal is to develop **modular, composable, and structure-preserving frameworks** that allow these distinct methodologies to interoperate seamlessly and to be analyzed under a unified semantic layer.  
-This line also involves building **open-source software tools** that encode these formal insights, enabling researchers to construct and compose models in a principled and transparent way.
-
-*This theoretical work provides the mathematical backbone for next-generation compositional dynamic modeling tools.*
+The theoretical line aims to reconstruct the **mathematical foundations** of dynamic modeling using **applied category theory**, and to translate these ideas into **open-source computational tools** that enable compositional and transparent model building.
 
 ---
 
-### 🔬 Application-Driven Line: Bayesian and Dynamic Modeling for Data-Informed Decision Support
+### 1. Theoretical Frameworks
 
-This line focuses on applying **Bayesian machine learning** and **dynamic modeling** to address complex real-world problems—particularly in **public health and epidemiology**.  
-My group develops **Bayesian dynamic models** that integrate large-scale observational data with dynamic system representations, enabling probabilistic inference, uncertainty quantification, and evidence-based decision-making in data-limited or rapidly evolving contexts.
+I develop a **category-theoretic foundation** for unifying diverse modeling methodologies—  
+including **System Dynamics (SD)**, **Agent-Based Modeling (ABM)**, and **Discrete-Event Simulation (DES)**—under a shared semantic structure.  
+This involves formalizing the relationships between state spaces, causal flows, and feedbacks, and expressing them as **composable morphisms** in categorical structures.  
 
-At the same time, I employ and extend multiple modeling methodologies—**System Dynamics (SD)** to represent population-level compartmental structures, **Agent-Based Modeling (ABM)** to simulate individual-level behaviors and interactions, and **Discrete-Event Simulation (DES)** to capture stochastic processes and event-based transitions.  
-These frameworks can be further combined into **hybrid models** that leverage the strengths of each paradigm, providing a comprehensive approach to understanding population dynamics, intervention impacts, and behavioral feedbacks in complex systems.
-
-*This applied line demonstrates how data, uncertainty, and dynamic feedbacks can be integrated to support real-world decision making.*
+Such a formal foundation enables **interoperability and structure-preserving transformations** between modeling paradigms, paving the way for next-generation dynamic modeling frameworks that are **modular, rigorous, and extensible**.
 
 ---
 
-### 🌐 Integration and Vision
+### 2. Open-Source Software Infrastructure
 
-The two research lines are deeply interdependent:  
-the **theoretical frameworks** inform the design of interpretable and extensible models, while **applied challenges** from real-world decision contexts inspire new theoretical constructs and software innovations.  
-Together, they advance a coherent vision of **compositional, Bayesian, and data-driven modeling** for understanding, forecasting, and intervening in complex adaptive systems.
+To translate these theoretical insights into practice, my group builds **open-source software ecosystems** that implement category-theoretic semantics for dynamic modeling.  
+These include frameworks for representing causal loop diagrams, stock–flow structures, and hybrid models within a unified compositional framework.  
+
+Our goal is to create **reusable, extensible, and collaborative modeling tools**, empowering researchers to construct and compose models transparently across disciplinary boundaries.
+
+---
+
+## 🔬 Application-Driven Line: Bayesian and Dynamic Modeling for Data-Informed Decision Support
+
+The applied line focuses on integrating **Bayesian machine learning**, **large-scale data**, and **dynamic modeling methodologies** to improve prediction, simulation, and decision-making in complex systems—particularly in **public health and epidemiology**.
+
+---
+
+### 1. Bayesian Machine Learning and Data-Driven Decision Making
+
+This component develops **Bayesian dynamic models** that integrate multi-source observational data—such as health records, surveillance data, and behavioral datasets—with dynamic system representations.  
+These models enable **probabilistic inference**, **data assimilation**, and **real-time forecasting** under uncertainty, offering interpretable and adaptive support for public health policy and intervention design.
+
+---
+
+### 2. Dynamic Modeling Methodologies and Real-World Simulation
+
+I apply and extend multiple dynamic modeling paradigms—  
+**System Dynamics (SD)** for population-level processes,  
+**Agent-Based Modeling (ABM)** for individual behaviors and interactions, and  
+**Discrete-Event Simulation (DES)** for stochastic or event-driven processes.  
+
+By combining these approaches into **hybrid models**, my research captures both aggregate system dynamics and micro-level behaviors, supporting evidence-based decision-making for complex phenomena such as disease spread, behavioral adaptation, and intervention evaluation.
+
+---
+
+## 🌐 Integration and Vision
+
+The two research lines reinforce each other:  
+the **theoretical frameworks** guide the design of modular, transparent models, while **real-world applications** expose new theoretical challenges and inspire further abstraction.  
+Together, they advance a coherent vision of **compositional, Bayesian, and data-driven modeling** for understanding, forecasting, and managing complex adaptive systems.
 
 ---
