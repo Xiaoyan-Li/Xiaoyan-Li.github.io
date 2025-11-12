@@ -24,7 +24,7 @@ My research program integrates theoretical and applied investigations to advance
 It consists of two deeply interconnected lines — one *theory-driven*, grounded in mathematics, and one *application-driven*, motivated by real-world decision problems.
 
 <p class="h3 fw-bold text-primary border-bottom pb-1 mt-4 mb-2">
-  1️⃣ 🧩 Theory-Driven Line: Category Theory for Next-Generation Dynamic System Modeling
+  1️⃣ Theory-Driven Line: Category Theory for Next-Generation Dynamic System Modeling
 </p>
 
 The theoretical line aims to reconstruct the **mathematical foundations** of dynamic modeling using applied category theory, and to translate these ideas into **open-source computational tools** that enable compositional and transparent model building.
@@ -54,7 +54,7 @@ Students with backgrounds in **pure mathematics, theoretical computer science**,
 Familiarity with *category theory* or an eagerness to learn formal abstract reasoning is strongly encouraged.
 
 <p class="h3 fw-bold text-primary border-bottom pb-1 mt-4 mb-2">
-  2️⃣ 🚀 Application-Driven Line: Dynamic Modeling for Real-World Decision Making
+  2️⃣ Application-Driven Line: Dynamic Modeling for Real-World Decision Making
 </p>
 
 The application line focuses on integrating **Bayesian machine learning**, **large-scale data**, and **dynamic modeling methodologies** to support decision-making in **public health and epidemiology**.
