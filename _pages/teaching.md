@@ -13,7 +13,7 @@ I teach undergraduate and graduate courses in computer science and data science 
 ### 🧑‍🏫 Undergraduate Course
 
 **Winter 2026**  
-**CPSC 2620: Fundamentals of Programming II**
+**CPSC 2620: Fundamentals of Programming II (Two Sections)**
 
 Department of Mathematics & Computer Science  
 University of Lethbridge
