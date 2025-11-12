@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Join
+title: Join My Research Group
 permalink: /join/
 nav: true
 nav_order: 2
 ---
-
-## Join My Research Group
 
 I am recruiting motivated students and research interns at the University of Lethbridge.  
 My work bridges applied category theory, Bayesian machine learning, and dynamic system modeling for public health and complex systems.  
