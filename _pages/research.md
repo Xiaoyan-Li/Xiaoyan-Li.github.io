@@ -18,7 +18,9 @@ My research bridges mathematics, computer science, and public health. I focus on
 
 ---
 
-## Research interests
+<p class="h3 fw-bold text-primary border-bottom pb-1 mt-4 mb-2">
+Research interests
+</p>
 
 My research program integrates theoretical and applied investigations to advance **compositional, interpretable, and data-informed frameworks** for dynamic system modeling.  
 It consists of two deeply interconnected lines — one *theory-driven*, grounded in mathematics, and one *application-driven*, motivated by real-world decision problems.
@@ -37,11 +39,11 @@ This involves formalizing the relationships between state spaces, causal flows, 
 Such a formal foundation enables **interoperability** and **structure-preserving transformations** between modeling paradigms, paving the way for dynamic modeling frameworks that are modular, rigorous, and extensible.
 
 <div class="img-row">
-  <img src="/assets/img/compose_structuredcospan.png" alt="Compositional categorical diagram">
-  <img src="/assets/img/pullback_square.png" alt="Pullback square example">
+  <img src="/assets/img/pushoutstructuredcospan.png" alt="Compositional categorical diagram">
+  <img src="/assets/img/sirvcompose.png" alt="Pullback square example">
 </div>
 <p class="img-caption">
-  Categorical views of compositional modeling (example diagrams).
+  Categorical views of compositional modeling.
 </p>
 
 <p class="h5 fw-bold text-secondary mt-3 mb-2">b. Open-source software infrastructure</p>
@@ -70,8 +72,8 @@ I apply and extend multiple modeling paradigms — SD for population-level compa
 These models help simulate complex epidemics, compare interventions, and support evidence-based policy.
 
 <div class="img-row">
-  <img src="/assets/img/bayesian_model.png" alt="Bayesian model pipeline">
-  <img src="/assets/img/epidemic_simulation.png" alt="Simulation example">
+  <img src="/assets/img/covidmodel.png" alt="Bayesian model pipeline">
+  <img src="/assets/img/breastfeeding.png" alt="Simulation example">
 </div>
 <p class="img-caption">
   Data-informed and hybrid dynamic modeling for public-health applications.
