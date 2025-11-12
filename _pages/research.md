@@ -28,7 +28,7 @@ It consists of two deeply interconnected lines—one *theory-driven*, rooted in 
 
 ---
 
-<p class="h2 fw-bold text-primary border-bottom pb-1 mt-4 mb-2">
+<p class="h4 fw-bold text-primary border-bottom pb-1 mt-4 mb-2">
 1️⃣ 🧩 Theory-Driven Line — Category Theory for Next-Generation Dynamic System Modeling
 </p>
 
@@ -42,11 +42,13 @@ By representing feedback, flow, and state transitions as composable morphisms, w
 
 This theoretical groundwork enables interoperability and structure-preserving transformations across paradigms, paving the way for a new generation of modular, mathematically sound modeling environments.
 
-<div class="img-row">
-  <img src="/assets/img/pushoutstructuredcospan.png" alt="Compositional categorical diagram" style="width:35%; margin-right:2rem;">
-  <img src="/assets/img/sirvcompose.png" alt="Pullback square example" style="width:35%;">
+<div class="img-row" style="display:flex; justify-content:center; align-items:center; gap:3rem; margin:1rem 0;">
+  <img src="/assets/img/pushoutstructuredcospan.png" alt="Compositional categorical diagram" style="width:38%; border-radius:8px;">
+  <img src="/assets/img/sirvcompose.png" alt="Pullback square example" style="width:38%; border-radius:8px;">
 </div>
-<p class="img-caption">Categorical views of compositional modeling.</p>
+<p class="img-caption" style="text-align:center;">
+  Categorical views of compositional modeling.
+</p>
 
 <p class="h5 fw-bold text-secondary mt-3 mb-2">b. Open-source software ecosystem</p>
 
@@ -60,7 +62,7 @@ Curiosity about category theory and enthusiasm for connecting abstract ideas wit
 
 ---
 
-<p class="h2 fw-bold text-primary border-bottom pb-1 mt-4 mb-2">
+<p class="h4 fw-bold text-primary border-bottom pb-1 mt-4 mb-2">
 2️⃣ 🚀 Application-Driven Line — Dynamic Modeling for Real-World Decision-Making
 </p>
 
@@ -77,11 +79,13 @@ These models support probabilistic reasoning, uncertainty quantification, and re
 We combine SD for population-level flows, ABM for individual behavior, and DES for event-driven processes into hybrid architectures that capture multiple scales of interaction.  
 Such models allow us to simulate epidemics, evaluate interventions, and design more resilient public-health strategies.
 
-<div class="img-row">
-  <img src="/assets/img/covidmodel.png" alt="COVID-19 modeling example" style="width:35%; margin-right:2rem;">
-  <img src="/assets/img/breastfeeding.png" alt="Breastfeeding intervention model" style="width:35%;">
+<div class="img-row" style="display:flex; justify-content:center; align-items:center; gap:3rem; margin:1.5rem 0;">
+  <img src="/assets/img/covidmodel.png" alt="COVID-19 modeling example" style="width:38%; border-radius:8px;">
+  <img src="/assets/img/breastfeeding.png" alt="Breastfeeding intervention model" style="width:38%; border-radius:8px;">
 </div>
-<p class="img-caption">Data-informed and hybrid dynamic modeling for public-health applications.</p>
+<p class="img-caption" style="text-align:center; color:#777; font-size:0.9em; margin-top:0.6rem;">
+  Data-informed and hybrid dynamic modeling for public-health applications.
+</p>
 
 <p class="h5 fw-bold text-secondary mt-3 mb-2">🎓 Ideal Student Profile</p>
 
