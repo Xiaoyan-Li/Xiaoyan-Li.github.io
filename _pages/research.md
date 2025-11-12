@@ -29,7 +29,7 @@ It consists of two deeply interconnected lines — one *theory-driven*, grounded
 
 The theoretical line aims to reconstruct the **mathematical foundations** of dynamic modeling using applied category theory, and to translate these ideas into **open-source computational tools** that enable compositional and transparent model building.
 
-***a. Theoretical frameworks***
+<p class="h5 fw-bold text-secondary mt-3 mb-2">a. Theoretical frameworks</p>
 
 I develop a **category-theoretic foundation** for unifying diverse modeling methodologies — including **System Dynamics (SD)**, **Agent-Based Modeling (ABM)**, and **Discrete-Event Simulation (DES)** — under a shared semantic structure.  
 This involves formalizing the relationships between state spaces, causal flows, and feedbacks, and expressing them as **composable morphisms** in categorical structures.
@@ -44,7 +44,7 @@ Such a formal foundation enables **interoperability** and **structure-preserving
   Categorical views of compositional modeling (example diagrams).
 </p>
 
-***b. Open-source software infrastructure***
+<p class="h5 fw-bold text-secondary mt-3 mb-2">b. Open-source software infrastructure</p>
 
 To translate these mathematical insights into practice, my group builds **open-source software ecosystems** that implement category-theoretic semantics for dynamic modeling.  
 These tools are meant to make model construction **reusable**, **auditable**, and **collaborative** across disciplines.
@@ -59,12 +59,12 @@ Familiarity with *category theory* or an eagerness to learn formal abstract reas
 
 The application line focuses on integrating **Bayesian machine learning**, **large-scale data**, and **dynamic modeling methodologies** to support decision-making in **public health and epidemiology**.
 
-***a. Bayesian ML for data-informed decision making***
+<p class="h5 fw-bold text-secondary mt-3 mb-2">a. Bayesian ML for data-informed decision making</p>
 
 We develop **Bayesian dynamic models** that combine observational data with mechanistic structure.  
 This enables probabilistic inference, uncertainty quantification, and real-time updating — all of which are essential in data-limited or rapidly evolving public-health contexts.
 
-***b. Dynamic modeling of real-world systems***
+<p class="h5 fw-bold text-secondary mt-3 mb-2">b. Dynamic modeling of real-world systems</p>
 
 I apply and extend multiple modeling paradigms — SD for population-level compartments, ABM for individual behavior and interaction, and DES for event-driven processes — and, when needed, combine them into **hybrid models**.  
 These models help simulate complex epidemics, compare interventions, and support evidence-based policy.
