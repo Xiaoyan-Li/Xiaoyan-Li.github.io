@@ -49,6 +49,10 @@ Such a formal foundation enables **interoperability** and **structure-preserving
 To translate these mathematical insights into practice, my group builds **open-source software ecosystems** that implement category-theoretic semantics for dynamic modeling.  
 These tools are meant to make model construction **reusable**, **auditable**, and **collaborative** across disciplines.
 
+<p class="h5 fw-bold text-secondary mt-3 mb-2">🧠 Ideal Student Profile</p>
+Students with backgrounds in **pure mathematics, theoretical computer science**, or **mathematical logic** are ideal.  
+Familiarity with *category theory* or an eagerness to learn formal abstract reasoning is strongly encouraged.
+
 <p class="h3 fw-bold text-primary border-bottom pb-1 mt-4 mb-2">
   2️⃣ 🚀 Application-Driven Line: Dynamic Modeling for Real-World Decision Making
 </p>
@@ -72,6 +76,10 @@ These models help simulate complex epidemics, compare interventions, and support
 <p class="img-caption">
   Data-informed and hybrid dynamic modeling for public-health applications.
 </p>
+
+<p class="h5 fw-bold text-secondary mt-3 mb-2">🧠 Ideal Student Profile</p>
+Students with experience in **applied mathematics, statistics, machine learning, or computational modeling** are well-suited.  
+Those interested in *public health applications, epidemiological modeling, or large-scale data integration* are especially welcome.
 
 ## 🌐 Integration and vision
 
