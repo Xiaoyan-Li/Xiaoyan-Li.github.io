@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-I am recruiting motivated students and research interns at the University of Lethbridge.  
+I am recruiting motivated Ph.D., M.Sc., and summer undergraduate interns for 2026–2027 at the University of Lethbridge.
 My work bridges applied category theory, Bayesian machine learning, and dynamic system modeling for public health and complex systems.  
 See the [Research](/research/) page for details about topics and current directions.
 
