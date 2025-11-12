@@ -18,16 +18,16 @@ My research bridges mathematics, computer science, and public health. I focus on
 
 ---
 
-# Research interests
+## Research interests
 
 My research program integrates theoretical and applied investigations to advance **compositional, interpretable, and data-informed frameworks** for dynamic system modeling.  
 It consists of two deeply interconnected lines — one *theory-driven*, grounded in mathematics, and one *application-driven*, motivated by real-world decision problems.
 
-## 🧩 Theory-Driven Line: Category Theory for Next-Generation Dynamic System Modeling
+**1. 🧩 Theory-Driven Line: Category Theory for Next-Generation Dynamic System Modeling**
 
 The theoretical line aims to reconstruct the **mathematical foundations** of dynamic modeling using applied category theory, and to translate these ideas into **open-source computational tools** that enable compositional and transparent model building.
 
-### 1. Theoretical frameworks
+a. Theoretical frameworks
 
 I develop a **category-theoretic foundation** for unifying diverse modeling methodologies — including **System Dynamics (SD)**, **Agent-Based Modeling (ABM)**, and **Discrete-Event Simulation (DES)** — under a shared semantic structure.  
 This involves formalizing the relationships between state spaces, causal flows, and feedbacks, and expressing them as **composable morphisms** in categorical structures.
@@ -42,21 +42,21 @@ Such a formal foundation enables **interoperability** and **structure-preserving
   Categorical views of compositional modeling (example diagrams).
 </p>
 
-### 2. Open-source software infrastructure
+b. Open-source software infrastructure
 
 To translate these mathematical insights into practice, my group builds **open-source software ecosystems** that implement category-theoretic semantics for dynamic modeling.  
 These tools are meant to make model construction **reusable**, **auditable**, and **collaborative** across disciplines.
 
-## 🔬 Application-Driven Line: Bayesian and Dynamic Modeling for Data-Informed Decision Support
+**2. 🔬 Application-Driven Line: Bayesian ML and Dynamic Modeling for Decision Support**
 
 The application line focuses on integrating **Bayesian machine learning**, **large-scale data**, and **dynamic modeling methodologies** to support decision-making in **public health and epidemiology**.
 
-### 1. Bayesian ML for data-informed decision making
+a. Bayesian ML for data-informed decision making
 
 We develop **Bayesian dynamic models** that combine observational data with mechanistic structure.  
 This enables probabilistic inference, uncertainty quantification, and real-time updating — all of which are essential in data-limited or rapidly evolving public-health contexts.
 
-### 2. Dynamic modeling of real-world systems
+b. Dynamic modeling of real-world systems
 
 I apply and extend multiple modeling paradigms — SD for population-level compartments, ABM for individual behavior and interaction, and DES for event-driven processes — and, when needed, combine them into **hybrid models**.  
 These models help simulate complex epidemics, compare interventions, and support evidence-based policy.
