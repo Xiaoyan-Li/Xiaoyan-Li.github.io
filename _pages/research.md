@@ -49,7 +49,9 @@ Such a formal foundation enables **interoperability** and **structure-preserving
 To translate these mathematical insights into practice, my group builds **open-source software ecosystems** that implement category-theoretic semantics for dynamic modeling.  
 These tools are meant to make model construction **reusable**, **auditable**, and **collaborative** across disciplines.
 
-**2️⃣ Application-Driven Line: Bayesian ML and Dynamic Modeling for Decision Support**
+<p class="h3 fw-bold text-primary border-bottom pb-1 mt-4 mb-2">
+  2️⃣ 🚀 Application-Driven Line: Dynamic Modeling for Real-World Decision Making
+</p>
 
 The application line focuses on integrating **Bayesian machine learning**, **large-scale data**, and **dynamic modeling methodologies** to support decision-making in **public health and epidemiology**.
 
