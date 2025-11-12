@@ -23,7 +23,7 @@ My research bridges mathematics, computer science, and public health. I focus on
 My research program integrates theoretical and applied investigations to advance **compositional, interpretable, and data-informed frameworks** for dynamic system modeling.  
 It consists of two deeply interconnected lines — one *theory-driven*, grounded in mathematics, and one *application-driven*, motivated by real-world decision problems.
 
-<p class="h2 fw-bold text-primary border-bottom pb-1 mt-4 mb-2">
+<p class="h3 fw-bold text-primary border-bottom pb-1 mt-4 mb-2">
   1️⃣ 🧩 Theory-Driven Line: Category Theory for Next-Generation Dynamic System Modeling
 </p>
 
