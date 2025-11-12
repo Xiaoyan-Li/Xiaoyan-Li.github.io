@@ -32,13 +32,12 @@ It consists of two deeply interconnected lines—one *theory-driven*, rooted in 
 1️⃣ 🧩 Theory-Driven Line — Category Theory for Next-Generation Dynamic System Modeling
 </p>
 
-We ask how mathematics can serve as a language for modeling change.  
-This line reconstructs the mathematical foundations of dynamic modeling using applied category theory and translates these insights into open-source computational tools that make model composition transparent and rigorous.
+We ask how mathematics can serve as a language for modeling change, and how it can reveal the hidden structures of dynamic models. This line reconstructs the mathematical foundations of dynamic modeling using applied category theory and translates these insights into open-source computational tools that make model composition transparent and rigorous.
 
 <p class="h5 fw-bold text-secondary mt-3 mb-2">a. Theoretical frameworks</p>
 
-We develop a category-theoretic foundation that unifies diverse modeling methodologies—System Dynamics (SD), Agent-Based Modeling (ABM), and Discrete-Event Simulation (DES)—under a shared semantic structure.  
-By representing feedback, flow, and state transitions as composable morphisms, we can reason about how models interact and evolve.
+We apply category-theoretic methodologies to a range of dynamic modeling paradigms—including  
+System Dynamics (SD), Agent-Based Modeling (ABM), Discrete-Event Simulation (DES), and Bayesian machine learning–based data-driven dynamic models — to construct modular, composable, and structure-preserving frameworks for next-generation dynamic modeling.
 
 This theoretical groundwork enables interoperability and structure-preserving transformations across paradigms, paving the way for a new generation of modular, mathematically sound modeling environments.
 
@@ -52,8 +51,8 @@ This theoretical groundwork enables interoperability and structure-preserving tr
 
 <p class="h5 fw-bold text-secondary mt-3 mb-2">b. Open-source software ecosystem</p>
 
-To make these ideas tangible, my group develops open-source software within the AlgebraicJulia ecosystem, implementing categorical semantics for dynamic modeling.  
-These platforms aim to make model construction reusable, auditable, and collaborative across mathematics, computer science, and domain science.
+To make these ideas tangible, my group develops open-source software within the AlgebraicJulia ecosystem, creating next-generation dynamic modeling tools—particularly for public health applications.  
+These platforms aim to make model construction reusable, auditable, and collaborative across mathematics, computer science, and domain sciences.
 
 <p class="h5 fw-bold text-secondary mt-3 mb-2">🎓 Ideal Student Profile</p>
 
@@ -66,18 +65,19 @@ Curiosity about category theory and enthusiasm for connecting abstract ideas wit
 2️⃣ 🚀 Application-Driven Line — Dynamic Modeling for Real-World Decision-Making
 </p>
 
-This line integrates Bayesian machine learning, large-scale data, and dynamic system modeling to inform decisions in public health, epidemiology, and social systems.  
-We combine mechanistic insight with statistical learning to understand how behavior, policy, and disease dynamics co-evolve.
+This line focuses on computational dynamic modeling methodologies, Bayesian machine learning algorithms, and large-scale observational data to simulate real-world problems and support better decision-making in public health.  
+We combine mechanistic insight with statistical learning to understand how behavior, policy, and disease dynamics co-evolve over time.
 
 <p class="h5 fw-bold text-secondary mt-3 mb-2">a. Bayesian ML for data-informed decision support</p>
 
-We develop Bayesian dynamic models that merge observational data with mechanistic structure.  
-These models support probabilistic reasoning, uncertainty quantification, and real-time updating—all crucial when decisions must be made under uncertainty, as in emerging infectious-disease responses.
+We develop Bayesian dynamic models—including Particle Filtering, MCMC, Particle MCMC, and Kalman Filtering—that integrate observational data with mechanistic structure.  
+These models enable probabilistic reasoning while using dynamic systems to transparently represent the underlying structures of real-world problems.  
+Observed data often provide only partial views of these systems; therefore, we apply Bayesian machine learning algorithms to infer and reconstruct the hidden dynamics, revealing and resolving the full complexity of the system in a transparent way.
 
 <p class="h5 fw-bold text-secondary mt-3 mb-2">b. Modeling complex adaptive systems</p>
 
-We combine SD for population-level flows, ABM for individual behavior, and DES for event-driven processes into hybrid architectures that capture multiple scales of interaction.  
-Such models allow us to simulate epidemics, evaluate interventions, and design more resilient public-health strategies.
+We combine System Dynamics for population-level flows, Agent-Based Modeling for individual behaviors, and Discrete-Event Modeling for event-driven processes into hybrid architectures that capture multiple scales of interaction.  
+Such models allow us to simulate epidemics, evaluate interventions, and design more resilient public health strategies.
 
 <div class="img-row" style="display:flex; justify-content:center; align-items:center; gap:3rem; margin:1.5rem 0;">
   <img src="/assets/img/covidmodel.png" alt="COVID-19 modeling example" style="width:38%; border-radius:8px;">
