@@ -23,7 +23,7 @@ My research bridges mathematics, computer science, and public health. I focus on
 My research program integrates theoretical and applied investigations to advance **compositional, interpretable, and data-informed frameworks** for dynamic system modeling.  
 It consists of two deeply interconnected lines — one *theory-driven*, grounded in mathematics, and one *application-driven*, motivated by real-world decision problems.
 
-**1. 🧩 Theory-Driven Line: Category Theory for Next-Generation Dynamic System Modeling**
+**1️⃣ Theory-Driven Line: Category Theory for Next-Generation Dynamic System Modeling**
 
 The theoretical line aims to reconstruct the **mathematical foundations** of dynamic modeling using applied category theory, and to translate these ideas into **open-source computational tools** that enable compositional and transparent model building.
 
@@ -47,7 +47,7 @@ Such a formal foundation enables **interoperability** and **structure-preserving
 To translate these mathematical insights into practice, my group builds **open-source software ecosystems** that implement category-theoretic semantics for dynamic modeling.  
 These tools are meant to make model construction **reusable**, **auditable**, and **collaborative** across disciplines.
 
-**2. 🔬 Application-Driven Line: Bayesian ML and Dynamic Modeling for Decision Support**
+**2️⃣ Application-Driven Line: Bayesian ML and Dynamic Modeling for Decision Support**
 
 The application line focuses on integrating **Bayesian machine learning**, **large-scale data**, and **dynamic modeling methodologies** to support decision-making in **public health and epidemiology**.
 
