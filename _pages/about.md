@@ -29,15 +29,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an assistant professor in the Department of Mathematics and Computer Science at the University of Lethbridge. My work sits between mathematics, computer science, and public health, and I am especially interested in building compositional, interpretable, data-driven frameworks for complex dynamic systems.
+I am an Assistant Professor in the Department of Mathematics and Computer Science at the University of Lethbridge, Alberta, Canada.  
+Before joining U of L, I was a Postdoctoral Fellow at the Topos Institute (Oxford Office).  
+And I completed both my Ph.D. and M.Sc. degrees in Computer Science at the University of Saskatchewan, Canada.
 
-I aim to develop modeling tools that combine the rigor of applied category theory with the flexibility of machine learning and simulation. The goal is to make it easier to integrate models across scales, improve transparency, and support real decision-making in public health settings.
+---
 
-My current research directions include:
+My research bridges mathematics, computer science, and public health.
+I develop theory-based and data-informed frameworks that integrate dynamic modeling, machine learning, category theory, and data science to better understand and support real-world decision-making in public health.
+I am passionate about translating abstract theory into practical impact.
 
-- Compositional dynamic modeling — categorical and modular approaches to system dynamics and agent-based models.
-- AI-assisted simulation — bringing learning and probabilistic reasoning into dynamic modeling workflows.
-- Public health applications — models for infectious diseases and population-level interventions.
+Outside of research, I love planting and caring for indoor plants, creating a calm and creative workspace.  
+I am also deeply committed to supporting women, newcomers, under-represented groups, and new parents in mathematics and computer science—helping others find belonging and balance in academia.
 
 ---
 
