@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Home
+title: About
 permalink: /
 subtitle: >
   Assistant Professor · <a href="https://www.ulethbridge.ca" target="_blank">University of Lethbridge</a>
@@ -44,7 +44,7 @@ My current research directions include:
 ### 🎓 Graduate Opportunities
 
 I am currently recruiting M.Sc. and Ph.D. students who are interested in applied category theory, AI in public health, or computational modeling of complex systems.  
-Please see the [Join](/join/) page for details, or contact me at firstname.lastname2 [at] uleth [dot] ca.
+Please see the [Join](/join/) page for details, or contact me at xiaoyan.li2 [at] uleth [dot] ca.
 
 ---
 
