@@ -65,10 +65,10 @@ These models enable **probabilistic inference**, **data assimilation**, and **re
 
 ### 2. Dynamic Modeling Methodologies and Real-World Simulation
 
-I apply and extend multiple dynamic modeling paradigms—  
-**System Dynamics (SD)** for population-level processes,  
-**Agent-Based Modeling (ABM)** for individual behaviors and interactions, and  
-**Discrete-Event Simulation (DES)** for stochastic or event-driven processes.  
+I apply and extend multiple dynamic modeling paradigms:  
+-**System Dynamics (SD)** for population-level processes,  
+-**Agent-Based Modeling (ABM)** for individual behaviors and interactions, and  
+-**Discrete-Event Simulation (DES)** for stochastic or event-driven processes.  
 
 By combining these approaches into **hybrid models**, my research captures both aggregate system dynamics and micro-level behaviors, supporting evidence-based decision-making for complex phenomena such as disease spread, behavioral adaptation, and intervention evaluation.
 
