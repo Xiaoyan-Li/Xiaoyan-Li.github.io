@@ -39,8 +39,8 @@ This involves formalizing the relationships between state spaces, causal flows, 
 Such a formal foundation enables **interoperability** and **structure-preserving transformations** between modeling paradigms, paving the way for dynamic modeling frameworks that are modular, rigorous, and extensible.
 
 <div class="img-row">
-  <img src="/assets/img/pushoutstructuredcospan.png" alt="Compositional categorical diagram">
-  <img src="/assets/img/sirvcompose.png" alt="Pullback square example">
+  <img src="/assets/img/pushoutstructuredcospan.png" alt="Compositional categorical diagram" style="width:40%; margin-right:1rem;">
+  <img src="/assets/img/sirvcompose.png" alt="Pullback square example" style="width:40%;">
 </div>
 <p class="img-caption">
   Categorical views of compositional modeling.
@@ -72,8 +72,8 @@ I apply and extend multiple modeling paradigms — SD for population-level compa
 These models help simulate complex epidemics, compare interventions, and support evidence-based policy.
 
 <div class="img-row">
-  <img src="/assets/img/covidmodel.png" alt="Bayesian model pipeline">
-  <img src="/assets/img/breastfeeding.png" alt="Simulation example">
+  <img src="/assets/img/covidmodel.png" alt="Compositional categorical diagram" style="width:40%; margin-right:1rem;">
+  <img src="/assets/img/breastfeeding.png" alt="Pullback square example" style="width:40%;">
 </div>
 <p class="img-caption">
   Data-informed and hybrid dynamic modeling for public-health applications.
