@@ -6,70 +6,68 @@ nav: true
 nav_order: 2
 ---
 
-## 🎓 Join My Research Group
+I am recruiting motivated students and research interns at the University of Lethbridge.  
+My work bridges applied category theory, Bayesian machine learning, and dynamic system modeling for public health and complex systems.  
+See the [Research](/research/) page for details about topics and current directions.
 
-I am currently recruiting motivated students and research interns to join my group at the University of Lethbridge.  
-My research bridges mathematics, computer science, and public health, focusing on **compositional and data-informed approaches to dynamic system modeling**.  
-You can find more details about my research areas on the [Research](/research/) page.
-
-We especially encourage applications from members of **under-represented groups** in computing, mathematics, and the sciences.
+We especially encourage applications from members of under-represented groups.
 
 ---
 
-## 🎓 Graduate Students (Ph.D. and M.Sc.)
+## Graduate Students (Ph.D. and M.Sc.)
 
-I am looking for highly motivated students interested in one or more of the following areas:
+Areas of interest include:
+- category theory in dynamic modeling
+- machine learning and large-scale data–driven dynamic modeling
+- computational modeling for decision-making in public health
 
-- *Category theory in dynamic modeling*  
-- *Machine learning and large-scale data–driven dynamic modeling*  
-- *Computational dynamic modeling for decision-making in public health*
+### Application instructions
+Email subject line: **Graduate Application – [Your Name]**
 
-### 📄 Application Instructions
+Please include:
+- transcripts from undergraduate and, if applicable, graduate studies  
+- CV or résumé  
+- English test score (if applicable)  
+- references or reference contacts (if available)  
+- any other relevant materials such as publications, project reports, or code repositories (optional)
 
-If you are interested in joining the group, please send me an email with the **subject line:**  
-**“Graduate Application – [Your Name]”**
+In the email body, add a short paragraph describing which aspect of my research you are most interested in (for example, category theory in dynamic modeling; machine learning and large-scale data; computational modeling for public-health decision-making).
 
-Your email must include the following attachments:
+### Additional notes
+Prospective graduate students must also meet the **University of Lethbridge admission requirements and deadlines** for graduate programs.  
+Please review the official information on the following pages before applying:
 
-- Transcript(s) from your **undergraduate** and (if applicable) **graduate** studies  
-- Your **CV or résumé**  
-- **English test score** (if applicable)  
-- **Reference letters or contact information for references** (if available)  
-- Any other relevant materials such as **publications, projects, or code repositories** (optional)
-
-In the body of your email, please include a short paragraph describing **which aspect of my research interests you find most exciting**  
-—for example, *category theory in dynamic modeling*, *machine learning for large-scale dynamic systems*,  
-or *computational modeling for public-health decision-making*.
-
----
-
-## 🎓 Undergraduate Research Interns (Summer or Part-Time)
-
-Undergraduate students are also welcome to join the group for summer internships or research projects.  
-We are particularly interested in students who wish to work on:
-
-- **Software implementation** (especially in *Julia* or *Rust*)  
-- **Computational simulation models** for public health  
-- **Integrating observed data and machine learning** in dynamic modeling for decision-making  
-- Projects on **infectious disease transmission, outbreak prediction, and intervention modeling**
-
-### 🏫 For University of Lethbridge Students
-If you are a current U of L undergraduate student, please contact me **well in advance** of summer application deadlines.  
-You may be eligible for funding through programs such as the **NSERC Undergraduate Student Research Award (USRA)**  
-or the **Alberta Innovates Chinook Summer Award**.
-
-### 🌍 For International Undergraduate Interns
-International students interested in summer or visiting research internships are also welcome—please contact me by email to discuss opportunities.
+- [Graduate Studies Admission Requirements](https://www.ulethbridge.ca/future-student/graduate-studies/admission-information)  
+- [Application Deadlines](https://www.ulethbridge.ca/ross/admissions/grad/deadlines)
 
 ---
 
-## 📬 Contact
+## Undergraduate Research Interns (Summer or Part-Time)
 
-If you are interested in any of the above positions, please email:
+Possible directions:
+- software implementation (especially in Julia or Rust)  
+- computational simulation models for public health  
+- incorporating observed data and machine learning in dynamic modeling for decision-making  
+- infectious-disease transmission, outbreak prediction, interventions
 
-**Xiaoyan Li**  
-Assistant Professor, Department of Mathematics & Computer Science  
-University of Lethbridge  
-📧 [your-email@uleth.ca]
+### Application instructions
+Email subject line: **Undergraduate Intern Application – [Your Name]**
 
-Please include all required documents and clearly indicate whether you are applying for a **Ph.D.**, **M.Sc.**, or **Undergraduate Internship** position.
+Please include:
+- transcripts from your undergraduate studies  
+- English test score (if applicable)  
+- any other relevant materials you feel are important (optional: publications, projects, or code)
+
+### Notes on programs and timing
+- University of Lethbridge students: please reach out well in advance of summer deadlines. You may be eligible for funding through programs such as the **NSERC Undergraduate Student Research Award (USRA)** or the **Alberta Innovates Chinook Summer Award**.  
+- International undergraduate interns are welcome to email me to discuss possibilities and timelines.
+
+---
+
+## Contact
+
+Xiaoyan Li  
+Assistant Professor, Department of Mathematics & Computer Science, University of Lethbridge  
+Email: xiaoyan.li2 [at] uleth [dot] ca
+
+Please indicate clearly whether you are applying for a Ph.D., M.Sc., or Undergraduate Internship position.
