@@ -16,7 +16,7 @@ profile:
     <p>Lethbridge, Alberta, Canada T1K 3M4</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
