@@ -6,6 +6,10 @@ nav: true
 nav_order: 6
 ---
 
+I teach undergraduate and graduate courses in computer science and data science at the University of Lethbridge.
+
+---
+
 ### 🧑‍🏫 Undergraduate Course
 
 **Winter 2026**  
