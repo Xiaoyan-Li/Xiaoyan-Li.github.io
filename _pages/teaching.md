@@ -7,6 +7,14 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Teaching
 
-Organize your courses by years, topics, or universities, however you like!
+### 🧑‍🏫 Undergraduate Course
+
+**Winter 2026**  
+**CPSC 2620: Fundamentals of Programming II**
+
+Department of Mathematics & Computer Science  
+University of Lethbridge
+
+---
