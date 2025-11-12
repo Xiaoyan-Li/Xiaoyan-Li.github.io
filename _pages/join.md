@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Join My Research Group
+title: Join
 permalink: /join/
 nav: true
 nav_order: 2
 ---
+
+## Join My Research Group
 
 I am recruiting motivated students and research interns at the University of Lethbridge.  
 My work bridges applied category theory, Bayesian machine learning, and dynamic system modeling for public health and complex systems.  
@@ -21,7 +23,8 @@ Areas of interest include:
 - machine learning and large-scale data–driven dynamic modeling
 - computational modeling for decision-making in public health
 
-### Application instructions
+**Application instructions**
+
 Email subject line: **Graduate Application – [Your Name]**
 
 Please include:
@@ -33,7 +36,8 @@ Please include:
 
 In the email body, add a short paragraph describing which aspect of my research you are most interested in (for example, category theory in dynamic modeling; machine learning and large-scale data; computational modeling for public-health decision-making).
 
-### Additional notes
+**Additional notes**
+
 Prospective graduate students must also meet the **University of Lethbridge admission requirements and deadlines** for graduate programs.  
 Please review the official information on the following pages before applying:
 
@@ -50,7 +54,8 @@ Possible directions:
 - incorporating observed data and machine learning in dynamic modeling for decision-making  
 - infectious-disease transmission, outbreak prediction, interventions
 
-### Application instructions
+**Application instructions**
+
 Email subject line: **Undergraduate Intern Application – [Your Name]**
 
 Please include:
@@ -58,7 +63,8 @@ Please include:
 - English test score (if applicable)  
 - any other relevant materials you feel are important (optional: publications, projects, or code)
 
-### Notes on programs and timing
+**Notes on programs and timing**
+
 - University of Lethbridge students: please reach out well in advance of summer deadlines. You may be eligible for funding through programs such as the **NSERC Undergraduate Student Research Award (USRA)** or the **Alberta Innovates Chinook Summer Award**.  
 - International undergraduate interns are welcome to email me to discuss possibilities and timelines.
 
