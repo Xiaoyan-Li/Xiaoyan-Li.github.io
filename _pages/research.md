@@ -18,7 +18,7 @@ My research bridges mathematics, computer science, and public health. I focus on
 
 ---
 
-## Research interests
+# Research interests
 
 My research program integrates theoretical and applied investigations to advance **compositional, interpretable, and data-informed frameworks** for dynamic system modeling.  
 It consists of two deeply interconnected lines—one *theory-driven*, grounded in mathematics, and one *application-driven*, motivated by real-world decision problems.
