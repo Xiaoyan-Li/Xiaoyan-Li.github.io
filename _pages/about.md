@@ -44,10 +44,10 @@ I am also deeply committed to supporting women, newcomers, under-represented gro
 
 ---
 
-### 🎓 Graduate Opportunities
+### 🌱 Current Openings
 
-I am currently recruiting M.Sc. and Ph.D. students who are interested in applied category theory, AI in public health, or computational modeling of complex systems.  
-Please see the [Join](/join/) page for details, or contact me at xiaoyan.li2 [at] uleth [dot] ca.
+I am currently recruiting **1 Ph.D. student**, **2 M.Sc. students**, and **3 undergraduate research interns** for the **2026–2027 academic year** at the University of Lethbridge.  
+Interested students can find more details on the [Join](/join/) page.
 
 ---
 
