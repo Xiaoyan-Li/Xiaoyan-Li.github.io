@@ -6,14 +6,30 @@ nav: true
 nav_order: 1
 ---
 
-My research lies at the intersection of **mathematics**, **computer science**, and **public health**, focusing on the development of **compositional and data-driven modeling frameworks** for complex systems.
+My research bridges mathematics, computer science, and public health. I focus on developing **composable** and **data-informed** approaches to complex dynamic systems, combining applied category theory, Bayesian machine learning, and dynamic system modeling. The goal is to build modeling tools that are modular, interpretable, and useful for real-world decision-making in public health and epidemiology.
 
-I draw upon **applied category theory**, **system dynamics**, and **machine learning** to create modular, interpretable, and evolvable tools that integrate dynamic simulation with artificial intelligence. These methods are applied across a range of domains, particularly in **public health** and **epidemiological modeling**.
+<p align="center">
+  <img src="/assets/img/research-overview.png" alt="Research overview" style="max-width:85%; border-radius:10px; margin:1em 0;">
+</p>
 
-## Current research directions
+<p style="text-align:center; color:gray; font-size:0.9em;">
+  Conceptual overview of my research program
+</p>
 
-- **Compositional dynamic modeling** — advancing formal frameworks for modular system dynamics and agent-based modeling.
-- **AI-assisted simulation** — integrating deep learning and probabilistic inference within dynamic system models.
-- **Public health applications** — developing decision-support tools for infectious disease forecasting and intervention evaluation.
+---
 
-If you are interested in working on topics related to **compositional modeling**, **machine learning**, or **AI in public health**, please visit the [Join](/join/) page for information about available opportunities.
+## Research directions
+
+My work currently develops along two complementary directions.
+
+### 1. Composable frameworks for dynamic modeling
+I develop composable, mathematically grounded frameworks that connect applied category theory with dynamic system modeling. These frameworks support modular and interpretable construction of simulation models and make it easier to integrate models across scales.
+
+### 2. Bayesian machine learning for decision support
+I use Bayesian machine learning together with large-scale observational data and mechanistic models to improve data-informed decision making, especially for public health and infectious disease modeling. This line integrates real-world data with dynamic models to handle uncertainty and to evaluate interventions.
+
+---
+
+## Vision
+
+Together, these two lines aim to create an integrated modeling ecosystem that links mathematical structure, learning from data, and practical decision-support for population health.
