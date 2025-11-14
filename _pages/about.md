@@ -39,8 +39,8 @@ My research bridges mathematics, computer science, and public health.
 I develop theory-based and data-informed frameworks that integrate dynamic modeling, machine learning, category theory, and data science to better understand and support real-world decision-making in public health.
 I am passionate about translating abstract theory into practical impact.
 
-Outside of research, I love planting and caring for indoor plants, creating a calm and creative workspace.  
-I am also deeply committed to supporting women, newcomers, under-represented groups, and new parents in mathematics and computer science—helping others find belonging and balance in academia.
+Outside of research, I enjoy caring for indoor plants and creating a calm, creative workspace.
+I am also committed to fostering an inclusive and supportive environment for women, newcomers, and underrepresented groups in computer science.
 
 ---
 
@@ -53,12 +53,3 @@ Interested students can find more details on the [Join](/join/) page.
 
 <p style="color: gray; font-style: italic;">“Bridging theory and application through compositional thinking.”</p>
 
-<!--
-**_I am currently recruiting motivated Ph.D. and M.Sc. students._**
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing the `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
--->
